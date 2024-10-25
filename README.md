@@ -14,11 +14,11 @@ Considering that there may be communication failures in the credit proposal or i
 Microservices:
 
 1- Customer registration;
-#### newme-catalog: https://github.com/gabrielleraujo/customer-registration
+#### https://github.com/gabrielleraujo/customer-registration
 2- Credit proposal;
-#### newme-catalog: https://github.com/gabrielleraujo/credit-proposal
+#### https://github.com/gabrielleraujo/credit-proposal
 3- Credit card;
-#### newme-catalog: https://github.com/gabrielleraujo/credit-card
+#### https://github.com/gabrielleraujo/credit-card
 
 ### C4 models:
 <p align="justify"><img height="900" src="./assets/img/diagrams/ms-credit-card-context.drawio.png"/></p>
